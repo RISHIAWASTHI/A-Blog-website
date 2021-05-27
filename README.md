@@ -1,2 +1,2 @@
-# distribution
- A blog with django based backend
+# Distribution
+ A blog with django based backend, just for my practice.
